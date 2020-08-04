@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.com/SpidMachine/herokku.svg?branch=master)](https://travis-ci.com/andy-aa/html)
+[![Build Status](https://travis-ci.com/SpidMachine/herokku.svg?branch=master)](https://travis-ci.com/SpidMachine/herokku2)
 https://calculatorcalc.herokuapp.com/
