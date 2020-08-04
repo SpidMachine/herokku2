@@ -1,2 +1,1 @@
-[![Build Status](https://travis-ci.com/SpidMachine/herokku.svg?branch=master)](https://travis-ci.org/github/SpidMachine/herokku2)
-https://calculatorcalc.herokuapp.com/
+[![Build Status](https://travis-ci.org/SpidMachine/herokku2.svg?branch=master)](https://travis-ci.org/SpidMachine/herokku2)
